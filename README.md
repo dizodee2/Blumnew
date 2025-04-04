@@ -12,8 +12,8 @@
 ## COMMANDS
 1. **Installation**
    ```bash
-   git clone https://github.com/Not-D4rkCipherX/blum-v2.git
-   cd blum-v2
+   git clone https://github.com/bilalrai12/Blum-Bot.git
+   cd Blum-Bot
    pip install -r requirements.txt
    ```
 2. **Configuration**
