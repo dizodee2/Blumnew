@@ -20,7 +20,7 @@
                     "currencyId": "59bee2e3-a682-4ec5-93df-a3bb294f7bed",
                     "name": "Blum points",
                     "symbol": "BP",
-                    "value": "1000"
+                    "value": "1000000"
                 },
                 "subTasks": [
                     {
@@ -37,7 +37,7 @@
                             "currencyId": "59bee2e3-a682-4ec5-93df-a3bb294f7bed",
                             "name": "Blum points",
                             "symbol": "BP",
-                            "value": "0"
+                            "value": "100000"
                         },
                         "applicationLaunch": {
                             "url": "https://t.me/treasury_official_bot/app?startapp=-3"
@@ -58,7 +58,7 @@
                             "currencyId": "59bee2e3-a682-4ec5-93df-a3bb294f7bed",
                             "name": "Blum points",
                             "symbol": "BP",
-                            "value": "0"
+                            "value": "100000"
                         },
                         "socialSubscription": {
                             "openInTelegram": true,
@@ -80,7 +80,7 @@
                             "currencyId": "59bee2e3-a682-4ec5-93df-a3bb294f7bed",
                             "name": "Blum points",
                             "symbol": "BP",
-                            "value": "0"
+                            "value": "100000"
                         },
                         "socialSubscription": {
                             "openInTelegram": false,
@@ -110,7 +110,7 @@
                     "currencyId": "59bee2e3-a682-4ec5-93df-a3bb294f7bed",
                     "name": "Blum points",
                     "symbol": "BP",
-                    "value": "1000"
+                    "value": "100000"
                 },
                 "subTasks": [
                     {
@@ -127,7 +127,7 @@
                             "currencyId": "59bee2e3-a682-4ec5-93df-a3bb294f7bed",
                             "name": "Blum points",
                             "symbol": "BP",
-                            "value": "0"
+                            "value": "45000"
                         },
                         "socialSubscription": {
                             "openInTelegram": false,
@@ -149,7 +149,7 @@
                             "currencyId": "59bee2e3-a682-4ec5-93df-a3bb294f7bed",
                             "name": "Blum points",
                             "symbol": "BP",
-                            "value": "0"
+                            "value": "190000"
                         },
                         "applicationLaunch": {
                             "url": "https://t.me/mycelium_io"
@@ -178,7 +178,7 @@
                     "currencyId": "59bee2e3-a682-4ec5-93df-a3bb294f7bed",
                     "name": "Blum points",
                     "symbol": "BP",
-                    "value": "1000"
+                    "value": "1000000"
                 },
                 "applicationLaunch": {
                     "url": "https://t.me/TrumpsEmpireBot/game?startapp=adjust=1m3dgme9"
@@ -204,7 +204,7 @@
                     "currencyId": "59bee2e3-a682-4ec5-93df-a3bb294f7bed",
                     "name": "Blum points",
                     "symbol": "BP",
-                    "value": "500"
+                    "value": "5000000"
                 },
                 "applicationLaunch": {
                     "url": "https://t.me/boinker_bot/boinkapp?startapp=campBlumFeb"
@@ -230,7 +230,7 @@
                     "currencyId": "59bee2e3-a682-4ec5-93df-a3bb294f7bed",
                     "name": "Blum points",
                     "symbol": "BP",
-                    "value": "100"
+                    "value": "1000000"
                 },
                 "isHidden": false,
                 "isDisclaimerRequired": false
@@ -253,7 +253,7 @@
                     "currencyId": "59bee2e3-a682-4ec5-93df-a3bb294f7bed",
                     "name": "Blum points",
                     "symbol": "BP",
-                    "value": "90"
+                    "value": "900000"
                 },
                 "socialSubscription": {
                     "openInTelegram": true,
@@ -287,7 +287,7 @@
                     "currencyId": "59bee2e3-a682-4ec5-93df-a3bb294f7bed",
                     "name": "Blum points",
                     "symbol": "BP",
-                    "value": "0"
+                    "value": "1000000"
                 },
                 "subTasks": [
                     {
@@ -304,7 +304,7 @@
                             "currencyId": "59bee2e3-a682-4ec5-93df-a3bb294f7bed",
                             "name": "Blum points",
                             "symbol": "BP",
-                            "value": "90"
+                            "value": "900000"
                         },
                         "socialSubscription": {
                             "openInTelegram": true,
@@ -326,7 +326,7 @@
                             "currencyId": "59bee2e3-a682-4ec5-93df-a3bb294f7bed",
                             "name": "Blum points",
                             "symbol": "BP",
-                            "value": "90"
+                            "value": "9000000"
                         },
                         "socialSubscription": {
                             "openInTelegram": false,
@@ -348,7 +348,7 @@
                             "currencyId": "59bee2e3-a682-4ec5-93df-a3bb294f7bed",
                             "name": "Blum points",
                             "symbol": "BP",
-                            "value": "90"
+                            "value": "9000000"
                         },
                         "socialSubscription": {
                             "openInTelegram": false,
@@ -370,7 +370,7 @@
                             "currencyId": "59bee2e3-a682-4ec5-93df-a3bb294f7bed",
                             "name": "Blum points",
                             "symbol": "BP",
-                            "value": "90"
+                            "value": "900000"
                         },
                         "socialSubscription": {
                             "openInTelegram": false,
@@ -392,7 +392,7 @@
                             "currencyId": "59bee2e3-a682-4ec5-93df-a3bb294f7bed",
                             "name": "Blum points",
                             "symbol": "BP",
-                            "value": "90"
+                            "value": "900000"
                         },
                         "socialSubscription": {
                             "openInTelegram": false,
@@ -422,7 +422,7 @@
                     "currencyId": "59bee2e3-a682-4ec5-93df-a3bb294f7bed",
                     "name": "Blum points",
                     "symbol": "BP",
-                    "value": "0"
+                    "value": "1000000"
                 },
                 "subTasks": [
                     {
@@ -439,7 +439,7 @@
                             "currencyId": "59bee2e3-a682-4ec5-93df-a3bb294f7bed",
                             "name": "Blum points",
                             "symbol": "BP",
-                            "value": "111"
+                            "value": "1110000"
                         },
                         "socialSubscription": {
                             "openInTelegram": true,
