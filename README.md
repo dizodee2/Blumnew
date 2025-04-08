@@ -12,7 +12,7 @@
 ## COMMANDS
 1. **Installation**
    ```bash
-   git clone https://github.com/bilalrai12/Blum-Bot.git
+   git clone https://dizodee2/Blumnew.git
    cd Blum-Bot
    pip install -r requirements.txt
    ```
@@ -56,6 +56,7 @@ python main.py
 ## Buy ME a Coffee
 
 - **BINANCE UID:** 
-1017669342
+836899445
 
-**BILAL STUDIO**
+## Reach me on whatsapp
+https://wa.me/254111200187
